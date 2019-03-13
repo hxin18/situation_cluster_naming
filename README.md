@@ -1,9 +1,9 @@
 # situation_cluster_naming
 This program take the cluster file and original document file as input and output the name of each cluster.
 
-###Format
+### Format
 
-####cluster file
+#### cluster file
 cluster file is a json line file, with each line represent a cluster. cfile.json is an sample.
 
 Each line should be a json object as follows:
@@ -12,7 +12,7 @@ Each line should be a json object as follows:
 
 doc field and id field are required.
 
-####original document file
+#### original document file
 original document file is the data contains the information of each document. tfile.json is an sample.
 
 each line is an json object as follows:
@@ -21,10 +21,10 @@ each line is an json object as follows:
 
 location, id and type are required, other fields are optional.
 
-###Environment
+### Environment
 this code should run with python 3.6. library codecs and argparse should be installed.
 
-###How to run
+### How to run
 
 ```
 usage: python nameselector.py [-h] -c cluster_file -t original_file -o output_file
@@ -36,7 +36,7 @@ arguments:
   -o output_file    path to output
 ```
 
-###Sample output
+### Sample output
 outsample.json is the sample output by running 
 
 ```
