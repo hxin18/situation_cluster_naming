@@ -1,0 +1,23 @@
+﻿{"doc": ["simpost-1020", "5947080000669"], "id": 1, "cluster_name": "med in Macedonia"}
+{"doc": ["simpost-0083", "simpost-0759"], "id": 2, "cluster_name": "evac in Aerodrom"}
+{"doc": ["simpost-0078", "simpost-0576"], "id": 3, "cluster_name": "evac in Sopishte"}
+{"doc": ["simpost-1101", "simpost-1110", "simpost-1116", "simpost-1125", "simpost-1145"], "id": 4, "cluster_name": "terrorism in Skopje"}
+{"doc": ["simpost-0434", "simpost-0435"], "id": 5, "cluster_name": "evac in Petrovec"}
+{"doc": ["simpost-0084", "simpost-0082", "simpost-0219"], "id": 6, "cluster_name": "evac in Sopishte"}
+{"doc": ["simpost-0163", "simpost-0168"], "id": 7, "cluster_name": "evac in Sopiste"}
+{"doc": ["simpost-0422", "simpost-0426", "simpost-1135"], "id": 8, "cluster_name": "evac in Skopje"}
+{"doc": ["simpost-0343", "simpost-0431"], "id": 9, "cluster_name": "evac in Kisela Voda"}
+{"doc": ["simpost-0126", "simpost-0069", "simpost-0201", "simpost-0492", "simpost-0571"], "id": 10, "cluster_name": "evac in Sopishte"}
+{"doc": ["simpost-0217", "simpost-0551"], "id": 11, "cluster_name": "evac in Sopishte"}
+{"doc": ["simpost-0079", "simpost-0073", "simpost-0384", "simpost-0392", "simpost-0552", "simpost-0578"], "id": 12, "cluster_name": "infra in Sopishte"}
+{"doc": ["simpost-0371", "simpost-0432"], "id": 13, "cluster_name": "evac in Aerodrom"}
+{"doc": ["simpost-0086", "simpost-0344"], "id": 14, "cluster_name": "food in Skopje"}
+{"doc": ["simpost-1098", "simpost-1100", "simpost-1103", "simpost-1119", "simpost-1130", "simpost-1139", "simpost-1140", "simpost-1141", "simpost-1142", "simpost-1143", "simpost-1151"], "id": 15, "cluster_name": "terrorism in Skopje"}
+{"doc": ["simpost-0935", "simpost-0936"], "id": 16, "cluster_name": "water in Tetov"}
+{"doc": ["simpost-1102", "simpost-1146", "simpost-1152", "simpost-1153", "simpost-1155", "simpost-1156"], "id": 17, "cluster_name": "terrorism in Skopje"}
+{"doc": ["simpost-1104", "simpost-1112", "simpost-1117", "simpost-1144"], "id": 18, "cluster_name": "terrorism in Skopje"}
+{"doc": ["simpost-0493", "simpost-0498", "simpost-0500", "simpost-0501", "simpost-0502", "simpost-0504", "simpost-0506"], "id": 19, "cluster_name": "evac in Sopishte"}
+{"doc": ["simpost-0306", "simpost-0391"], "id": 20, "cluster_name": "infra in Dolno Sonje"}
+{"doc": ["simpost-0397", "simpost-0417"], "id": 21, "cluster_name": "infra in Kisela Voda"}
+{"doc": ["simpost-0701", "simpost-0066", "simpost-0425", "simpost-0430"], "id": 22, "cluster_name": "evac in Skopje"}
+{"doc": ["5947080000045", "5947080000382"], "id": 23, "cluster_name": "utils in Кисела Вода"}
