@@ -40,6 +40,6 @@ arguments:
 outsample.json is the sample output by running 
 
 ```
-python nameselector.py  -c cfile -t tfile -o outsample.json
+python nameselector.py  -c cfile.json -t tfile.json -o outsample.json
 ```
 Compared to the cfile.json, it adds the name for each cluster. The name is related to type filed of original document file, so please make sure this filed to be precise and correct.
