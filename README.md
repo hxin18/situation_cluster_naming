@@ -7,18 +7,18 @@ This program take the cluster file and original document file as input and outpu
 cluster file is a json line file, with each line represent a cluster. cfile.json is an sample.
 
 Each line should be a json object as follows:
-
+```
 {"doc": ["simpost-1101", "simpost-1110", "simpost-1116", "simpost-1125", "simpost-1145"], "id": 4}
-
+```
 doc field and id field are required.
 
 #### original document file
 original document file is the data contains the information of each document. tfile.json is an sample.
 
 each line is an json object as follows:
-
+```
 {"text": "The streets are shattered by water , and there 's been everywhere .", "location": "Rakotinsi", "type": "evac", "id": "simpost-0314", "time": "2018-09-20T23:41:35Z"}
-
+```
 location, id and type are required, other fields are optional.
 
 ### Environment
